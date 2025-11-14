@@ -1,5 +1,5 @@
 <div class="card">
-    <h1 class="mt-4">Laporan Peminjaman Buku</h1>
+    <h1 class="mt-4">Peminjaman & Pengembalian Buku</h1>
     <div class="card-body">
         <div class="row">
             <div class="col-md-12">

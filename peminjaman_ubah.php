@@ -1,4 +1,4 @@
-<h1 class="mt-4">Ubah Peminjaman Buku</h1>
+<h1 class="mt-4">Kembalikan Buku</h1>
 <div class="card">
     <div class="card-body">
         <div class="row">
