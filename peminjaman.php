@@ -37,7 +37,7 @@
                             <td><?php echo $data['status_peminjaman']; ?></td>
                             <td>
                                 <?php 
-                                if($data['status_peminjaman'] != 'dikebalikan') {
+                                if($data['status_peminjaman'] != 'dikembalikan') {
                                     
                                 
                                 ?>

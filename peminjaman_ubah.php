@@ -76,7 +76,7 @@
                         <div class="col-md-8">
                             <select name="status_peminjaman" class="form-control">
                                 <option value="dipinjam" <?= ($data['status_peminjaman'] == 'dipinjam') ? 'selected' : ''; ?>>Dipinjam</option>
-                                <option value="dikebalikan" <?= ($data['status_peminjaman'] == 'dikebalikan') ? 'selected' : ''; ?>>Dikembalikan</option>
+                                <option value="dikembalikan" <?= ($data['status_peminjaman'] == 'dikembalikan') ? 'selected' : ''; ?>>Dikembalikan</option>
                             </select>
                         </div>
                     </div>
